@@ -15,8 +15,6 @@ Install project dependencies:
 
 pip install -r requirements.txt
 
-bash
-Copy code
 
 ## Environment Variables
 Create a `.env` file in the project root:
@@ -24,8 +22,6 @@ Create a `.env` file in the project root:
 OPENAI_API_KEY=your_openai_key
 SERPAPI_KEY=your_serpapi_key
 
-powershell
-Copy code
 
 Do not commit your `.env` file.
 
@@ -34,8 +30,6 @@ Start the Streamlit application:
 
 streamlit run travelagent.py
 
-arduino
-Copy code
 
 The app will open in your browser at:
 
