@@ -13,7 +13,9 @@ The app provides flights, attractions, hotels, restaurants, and a complete itine
 ## Requirements
 Install project dependencies:
 
+```
 pip install -r requirements.txt
+```
 
 
 ## Environment Variables
